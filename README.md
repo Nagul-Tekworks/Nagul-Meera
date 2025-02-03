@@ -1,6 +1,6 @@
 # Hi, I'm Nagul Meera Shaik 👋
 
-With over **12 years of experience** in full-stack Java development and training, I am passionate about empowering the next generation of developers and delivering impactful training programs. My journey as a **Project Manager**, **Technical Mentor**, and **Manager of Learning and Development** has allowed me to shape the skills of **1,000+ graduates**, guiding them toward successful careers in technology.
+With over **12 years of experience** in full-stack Java development, Python, Data Analysis, and Machine Learning, I am passionate about empowering the next generation of developers and delivering impactful training programs. My journey as a **Project Manager**, **Technical Mentor**, and **Manager of Learning and Development** has allowed me to shape the skills of **1,000+ graduates**, guiding them toward successful careers in technology.
 
 ## 🔧 **Technical Expertise**
 - **Programming Languages**: Java, Python, C, C++, Scala  
