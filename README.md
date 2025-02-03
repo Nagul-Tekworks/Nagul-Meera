@@ -46,12 +46,10 @@ A comprehensive job portal designed to connect applicants with recruiters, featu
 
 ## 📫 **Let’s Connect**
 I’m always open to collaborating on interesting projects or discussing opportunities. Feel free to reach out to me:
-- **LinkedIn**: [Your LinkedIn Profile Link]  
-- **Email**: [Your Email Address]  
-- **Portfolio**: [Your Portfolio Website Link]  
+- **LinkedIn**: www.linkedin.com/in/nagul-meera-shaik-085a8358 
+- **Email**: sa.nagulmeera@gmail.com
+- **Portfolio**: 
 
-## ⚡ **Fun Fact**
-[Add a fun or interesting fact about yourself to make your profile more personal!]  
 
 ---
 
